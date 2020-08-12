@@ -1,1 +1,2 @@
-
+config:
+  info: "master branth,my-springcloud/config-prod.yml version=1"
